@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Asad here professional mobile application developer with experience of 2+ year in industry. I am very proficient in programming languages like Dart, Java, nodejs, as well as solid understanding of software development concepts like object-oriented programming, data structures and algorithms. I am much families with flutter and its associated tools and libraries. And can develop my own custom libraries. 
+Hi, Asad here professional Software developer with experience of 2+ year in industry. I am very proficient in programming languages like Dart, Java, nodejs, React as well as solid understanding of software development concepts like object-oriented programming, data structures and algorithms. I am much families with flutter and its associated tools and libraries. And can develop my own custom libraries. 
 Continuous learning , problem solving and attention to detail are my key Strengths in my workplace. I prefer continuous learning of new technologies and keep up to date.
 I usually prefer systematic approach to software development that prioritizes quality and effective time management in development.
 
